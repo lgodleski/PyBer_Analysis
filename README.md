@@ -34,5 +34,4 @@ The purpose of this analysis is to show and compare the differences in ride-shar
 To address these disparities among city types, I recommend:
 - Reducing the total driver count in urban cities
 - Raising the average fare per ride in urban cities (thereby increasing the total fares and average fare per driver)
-- Raising total driver count in rural cities 
 - Reducing the average fare per ride in rural cities (thereby decreasing the total fares and average fare per driver) 
