@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview
-The purpose of this analysis is to show and compare the differences in ride-sharing data among different city types (rural, urban, and suburban).
+The purpose of this analysis is to show and compare the differences in ride-sharing data among rural, urban, and suburban cities. 
 
 ## Results
 ### PyBer Data Summary
