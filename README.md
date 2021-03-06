@@ -5,7 +5,7 @@ The purpose of this analysis is to show and compare the differences in ride-shar
 
 ## Results
 ### PyBer Data Summary
-- ![](analysis/pyber_summary_df.png)
+![](analysis/pyber_summary_df.png)
 - Looking at this overview of the data, we can see that urban cities have the highest number of total rides, the highest number of total drivers and fares, the lowest average fare per ride, and the lowest average fare per driver. 
 - Rural cities, conversely, have the lowest number of total rides, the lowest number of total drivers and fares, the highest average fare per ride, and the highest average fare per driver. 
 
@@ -26,7 +26,8 @@ The purpose of this analysis is to show and compare the differences in ride-shar
 
 ### Total Fare by City Type
 ![](analysis/Pyber_fare_summary.png)
-
+- We can see the total fares by city type from January 1, 2019 - April 29, 2019 where urban cities consistently have the highest total fares and rural cities consistently have the lowest total fares. 
+- Urban, suburban, and rural cities all experienced a peak in total fares in late February followed by a drop in the begnning of March. 
 
 
 ## Summary
