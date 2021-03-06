@@ -27,7 +27,12 @@ The purpose of this analysis is to show and compare the differences in ride-shar
 ### Total Fare by City Type
 ![](analysis/Pyber_fare_summary.png)
 - We can see the total fares by city type from January 1, 2019 - April 29, 2019 where urban cities consistently have the highest total fares and rural cities consistently have the lowest total fares. 
-- Urban, suburban, and rural cities all experienced a peak in total fares in late February followed by a drop in the begnning of March. 
+- Urban, suburban, and rural cities all experienced a peak in total fares in late February followed by a drop in the beginning of March. 
 
 
 ## Summary
+To address these disparities among city types, I recommend:
+- Reducing the total driver count in urban cities
+- Raising the average fare per ride in urban cities (thereby increasing the total fares and average fare per driver)
+- Raising total driver count in rural cities 
+- Reducing the average fare per ride in rural cities (thereby decreasing the total fares and average fare per driver) 
